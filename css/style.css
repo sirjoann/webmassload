@@ -1,3 +1,8 @@
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
 .cover-text-sublead {
     font-size: 16px;
     font-family: 'Raleway', sans-serif;

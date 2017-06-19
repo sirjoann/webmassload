@@ -20,8 +20,8 @@
                             <li><a href="#">อุปกร์เสริมอื่นๆ</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">รูปภาพ</a></li>
-                    <li><a href="#">บทความ</a></li>
+                    <li><a href="gallery">รูปภาพ</a></li>
+                    <li><a href="post">บทความ</a></li>
                     <li><a href="contact">ติดต่อเรา</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe"></i> ภาษาไทย <span class="caret"></span></a>
