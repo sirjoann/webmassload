@@ -12,7 +12,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="index">หน้าแรก</a></li>
-                    <li class="dropdown">
+                    <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">สินค้า <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="housing">กล่องหุ้มกล้องวงจรปิด</a></li>
@@ -20,7 +20,7 @@
                             <li><a href="accessory">อุปกรณ์เสริมอื่นๆ</a></li>
                         </ul>
                     </li>
-                    <li class="active"><a href="gallery">รูปภาพ</a></li>
+                    <li><a href="gallery">รูปภาพ</a></li>
                     <li><a href="post">บทความ</a></li>
                     <li><a href="contact">ติดต่อเรา</a></li>
                     <li class="dropdown">
@@ -41,13 +41,12 @@
     <div class="container-fluid paddingp" style="background-color: #ffffff;">
         <div class="rows">
             <div class="container">
-                <div class="row hpage">gallery</div>
-                <div style="text-align: center; font-family: 'Mitr',sans-serif;">คลังภาพผลงานการติดตั้งกล่องหุ้มกล้องวงจรปิด</div>
+                <div class="row hpage">products</div>
+                <div style="text-align: center; font-family: 'Mitr',sans-serif;">สินค้าทั้งหมดจากเรา</div>
                 <hr>
                 <div style="padding-top: 50px;"></div>
             </div>
         </div>
-        
         <div class="rows">
             <div class="container">
                 <div class="row">

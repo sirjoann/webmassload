@@ -15,9 +15,9 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">สินค้า <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">กล่องหุ้มกล้องวงจรปิด</a></li>
-                            <li><a href="#">ขายึดกล่องหุ้มกล้องวงจรปิด</a></li>
-                            <li><a href="#">อุปกร์เสริมอื่นๆ</a></li>
+                            <li><a href="housing">กล่องหุ้มกล้องวงจรปิด</a></li>
+                            <li><a href="bracket">ขายึดกล่องหุ้มกล้องวงจรปิด</a></li>
+                            <li><a href="accessory">อุปกรณ์เสริมอื่นๆ</a></li>
                         </ul>
                     </li>
                     <li><a href="gallery">รูปภาพ</a></li>
@@ -49,7 +49,7 @@
                         <div class="col-md-4">
                             <h1 class="cover-text-lead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">No.1 CCTV Housing</h1>
                             <h2 class="cover-text-sublead wow fadeInUp" style="padding: 20px 0px; visibility: visible; animation-duration: 1s; animation-delay: 0.8s; animation-name: fadeInUp;" data-wow-duration="1s" data-wow-delay=".8s">MASSLOAD No.1 Factory of Die-Cast aluminum CCTV housing and bracket</h2>
-                            <a  class="btn btn-primary btn-outline animated fadeInLeft">See Our Products</a>
+                            <a href="#about" class="btn btn-primary btn-outline animated fadeInLeft">LEARN MORE</a>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
         </div>
     </header>
 
-    <div class="rows" style="background-color: #fff;">
+    <div id="about" class="rows" style="background-color: #fff;">
         <div class="container paddingp">
             <div style="text-align: center; font-family: 'Mitr',sans-serif;">
                 <h1>กล่องหุ้มกล้องวงจรปิด</h1>
@@ -83,7 +83,7 @@
                         <h2 style="font-weight: 700">MASSLOAD</h2>
                         <h3>ที่สุดของ "กล่องหุ้มกล้องวงจรปิด"</h3>
                         <div style="padding-top: 20px;">
-                            MASSLOAD ชุดหุ้มกล้อง และอุปกรณ์เสริมสำหรับกล้องวงจรปิดที่นิยมใช้กันอย่างแพร่หลายในสถานที่สำคัญต่างๆ เช่น สนามบิน สวนสาธารณ สถานนีขนส่ง หน่วยงานราชการ บริษัท ห้างร้านต่างๆ
+                            MASSLOAD ชุดหุ้มกล้อง และอุปกรณ์เสริมสำหรับกล้องวงจรปิดที่นิยมใช้กันอย่างแพร่หลายในสถานที่สำคัญต่างๆ เช่น สนามบิน สวนสาธารณะ สถานนีขนส่ง หน่วยงานราชการ บริษัท ห้างร้านต่างๆ
                         </div>
                         <div style="padding-top: 20px;">
                             ภายในกล่องหุ้มกล้องมีอุปกรณ์ที่รองรับการทำงานของระบบกล้องวงจรปิดได้อย่างมีประสิทธิภาพ เช่น พัดลมช่วยในการระบายความร้อน ฮีตเตอร์ช่วยไล่ฝ้าหรือไอหมอก อินฟาเรดช่วยในการมองเห็นในเวลากลางคืน

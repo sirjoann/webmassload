@@ -15,19 +15,20 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">สินค้า <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">กล่องหุ้มกล้องวงจรปิด</a></li>
-                            <li><a href="#">ขายึดกล่องหุ้มกล้องวงจรปิด</a></li>
-                            <li><a href="#">อุปกร์เสริมอื่นๆ</a></li>
+                            <li><a href="housing">กล่องหุ้มกล้องวงจรปิด</a></li>
+                            <li><a href="bracket">ขายึดกล่องหุ้มกล้องวงจรปิด</a></li>
+                            <li><a href="accessory">อุปกรณ์เสริมอื่นๆ</a></li>
                         </ul>
                     </li>
                     <li><a href="gallery">รูปภาพ</a></li>
                     <li><a href="post">บทความ</a></li>
-                    <li class="active"><a href="#">ติดต่อเรา</a></li>
+                    <li class="active"><a href="contact">ติดต่อเรา</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe"></i> ภาษาไทย <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">ภาษาไทย</a></li>
-                            <li><a href="#">ENLISH</a></li>
+                            <li><a href="#"><img src="images/lang-th.jpg" width="20px"> ภาษาไทย/TH</a></li>
+                            <?php/* echo basename($_SERVER['PHP_SELF']); */?>
+                            <li><a href="#"><img src="images/lang-en.jpg" width="20px"> ENLISH/EN</a></li>
                         </ul>
                     </li>
                 </ul>
