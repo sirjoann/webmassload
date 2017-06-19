@@ -32,7 +32,7 @@
 </footer>
 
 <div style="background-color: #32475c; text-align: center; color: #cecece; padding: 10px 0px 10px 0px; font-family: 'Mitr',sans-serif; font-size: 12px;">
-    © 2017 บริษัท คอร์เทค คอร์ปอเรชั่น จำกัด. สงวนสิทธิ์
+    © 2017 <a href="www.coretech.co.th">บริษัท คอร์เทค คอร์ปอเรชั่น จำกัด</a>. สงวนสิทธิ์
 </div>
 
 <script src="js/jquery.js"></script>
