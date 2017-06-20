@@ -61,7 +61,7 @@
                         <div class="col-md-4">
                             <h1 class="cover-text-lead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">No.1 CCTV Housing</h1>
                             <h2 class="cover-text-sublead wow fadeInUp" style="padding: 20px 0px; visibility: visible; animation-duration: 1s; animation-delay: 0.8s; animation-name: fadeInUp;" data-wow-duration="1s" data-wow-delay=".8s">MASSLOAD No.1 Factory of Die-Cast aluminum CCTV housing and bracket</h2>
-                            <a  class="btn btn-primary btn-outline animated fadeInLeft">See Our Products</a>
+                            <a href="#about" class="btn btn-primary btn-outline animated fadeInLeft">LEARN MORE</a>
                         </div>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
         <div class="container paddingp">
             <div style="text-align: center; font-family: 'Mitr',sans-serif;">
                 <h1>กล่องหุ้มกล้องวงจรปิด</h1>
-                <div>MASSLOAD ที่สุดของกล่องหุ้มกล้องวงจรปิด นิยมใช้กันมากเป็นอันดับ 1 ของโลก</div>
+                <div>MASSLOAD ที่สุดของกล่องหุ้มกล้องวงจรปิด ที่นิยมใช้กันมากเป็นอันดับ 1 ของโลก</div>
                 <hr>
                 <div class="row" style="padding-top: 50px;">
                     <div class="col-md-6">
@@ -86,11 +86,11 @@
                             MASSLOAD ชุดหุ้มกล้อง และอุปกรณ์เสริมสำหรับกล้องวงจรปิดที่นิยมใช้กันอย่างแพร่หลายในสถานที่สำคัญต่างๆ เช่น สนามบิน สวนสาธารณะ สถานนีขนส่ง หน่วยงานราชการ บริษัท ห้างร้านต่างๆ
                         </div>
                         <div style="padding-top: 20px;">
-                            ภายในกล่องหุ้มกล้องมีอุปกรณ์ที่รองรับการทำงานของระบบกล้องวงจรปิดได้อย่างมีประสิทธิภาพ เช่น พัดลมช่วยในการระบายความร้อน ฮีตเตอร์ช่วยไล่ฝ้าหรือไอหมอก อินฟาเรดช่วยในการมองเห็นในเวลากลางคืน
+                            ภายในกล่องหุ้มกล้องวงจรปิดมีอุปกรณ์ที่รองรับการทำงานของระบบกล้องวงจรปิดได้อย่างมีประสิทธิภาพ เช่น พัดลมช่วยในการระบายความร้อน ฮีตเตอร์ช่วยไล่ฝ้าหรือไอหมอก อินฟาเรดช่วยในการมองเห็นในเวลากลางคืน
                             และ PoE อุปกรณ์เพื่อรองรับระบบกล้องแบบ IP
                         </div>
                         <div style="padding-top: 20px; padding-bottom: 20px;">
-                            <b>กล่องหุ้มกล้อง</b> ใช้สำหรับกล้อง CS Mount หรือ กล้อง Box สำหรับการติดตั้งภายนอกอาคาร เพื่อป้องกันตัวกล้องได้ดี ป้องกันฝุ่นละออง น้ำ แรงระเบิด สะเก็ดไฟ เพื่อให้กล้องยังคงทำงานได้ดีในทุกสภาวะ
+                            <b>กล่องหุ้มกล้องวงจรปิด</b> ใช้สำหรับกล้อง CS Mount หรือ กล้อง Box สำหรับการติดตั้งภายนอกอาคาร เพื่อป้องกันตัวกล้องได้ดี ป้องกันฝุ่นละออง น้ำ แรงระเบิด สะเก็ดไฟ เพื่อให้กล้องยังคงทำงานได้ดีในทุกสภาวะ
                         </div>
                         
                         <img src="images/ce-rohs.jpg">
@@ -112,7 +112,7 @@
                     <div class="caption">
                         <div><p>กล่องหุ้มกล้องวงจรปิด ทำจากวัสดุอลูมิเนียมอัลลอยน์ ป้องกันน้ำและฝุ่นละอองด้วยมาตรฐาน IP66-68</p></div>
                         <div style="text-align: center">
-                            <a class="btn btn-default">view all</a>
+                            <a href="housing" class="btn btn-default">view all</a>
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                     <div class="caption">
                         <div><p>ขายึดกล่องหุ้มกล้องวงจรปิด ใช้ยึดเข้ากับผนัง ฝ้าเพดาน หรือแม้กระทั่งยึดจับเสา พร้อมการจัดเก็บสายในตัว</p></div>
                         <div style="text-align: center">
-                            <a class="btn btn-default">view all</a>
+                            <a href="bracket" class="btn btn-default">view all</a>
                         </div>
                     </div>
                 </div>
@@ -134,7 +134,7 @@
                     <div class="caption">
                         <div><p>อุปกรณ์เสริมสำหรับระบบกล้องปิด เช่น PoE Injector, Junction Box เป็นต้น</p></div>
                         <div style="text-align: center">
-                            <a class="btn btn-default">view all</a>
+                            <a href="accessory" class="btn btn-default">view all</a>
                         </div>
                     </div>
                 </div>

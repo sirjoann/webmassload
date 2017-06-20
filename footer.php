@@ -6,17 +6,16 @@
         </div>
         <div class="col-md-3">
             <div class="hfooter">PAGE</div>
-            <div><a href="#">หน้าแรก</a></div>
-            <div><a href="#">สินค้าและบริการ</a></div>
-            <div><a href="#">รูปภาพ/คลังภาพ</a></div>
-            <div><a href="#">บทความ/คลังความรู้</a></div>
+            <div><a href="index">หน้าแรก</a></div>
+            <div><a href="gallery">รูปภาพ/คลังภาพ</a></div>
+            <div><a href="post">บทความ/คลังความรู้</a></div>
             <div><a href="contact">ข้อมูลติดต่อ</a></div>
         </div>
         <div class="col-md-3">
             <div class="hfooter">PRODUCTS</div>
-            <div><a href="#">กล่องหุ้มกล้องวงจรปิด</a></div>
-            <div><a href="#">ขายึดกล่องหุ้มกล้องวงจรปิด</a></div>
-            <div><a href="#">อุปกรณ์เสริม</a></div>
+            <div><a href="housing">กล่องหุ้มกล้องวงจรปิด</a></div>
+            <div><a href="bracket">ขายึดกล่องหุ้มกล้องวงจรปิด</a></div>
+            <div><a href="accessory">อุปกรณ์เสริม</a></div>
         </div>
         <div class="col-md-3">
             <div class="hfooter">Get in tuch</div>
@@ -53,8 +52,8 @@ $('.carousel').carousel({
 -->
 
 <script>
+    
     $(document).ready(function () {
-
         loadGallery(true, 'a.thumbnail');
 
         //This function disables buttons when needed
@@ -108,14 +107,6 @@ $('.carousel').carousel({
                 updateGallery($(this));
             });
         }
-    });
-</script>
-<script>
-    $('a').click(function () {
-        $('html, body').animate({
-            scrollTop: $($(this).attr('href')).offset().top
-        }, 500);
-        return false;
     });
 </script>
 </body>

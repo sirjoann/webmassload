@@ -27,7 +27,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe"></i> ภาษาไทย <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#"><img src="images/lang-th.jpg" width="20px"> ภาษาไทย/TH</a></li>
-                            <?php/* echo basename($_SERVER['PHP_SELF']); */?>
+                            <?php /* echo basename($_SERVER['PHP_SELF']); */ ?>
                             <li><a href="#"><img src="images/lang-en.jpg" width="20px"> ENLISH/EN</a></li>
                         </ul>
                     </li>
@@ -59,12 +59,21 @@
                             </div>
                         </div>
                     </div>
-                     <div class="col-md-4 col-sm-6 col-xs-12 col-xxs-12">
+                    <div class="col-md-4 col-sm-6 col-xs-12 col-xxs-12">
                         <div class="thumbnail" style="box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);">
-                            <img src="images/post/02.jpg" alt="กล่องหุ้มกล้องวงจรปิด">
+                            <img src="images/post/02.jpg" alt="การอ่านค่า IP Protection">
                             <div class="caption">
                                 <h4>วิธีการอ่านค่า IP Protection</h4>
                                 <p>มาทำความรู้จักกับวิธีการอ่านค่า IP Protection กันดีกว่า...<a href="#"><b> อ่านต่อ</b></a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12 col-xxs-12">
+                        <div class="thumbnail" style="box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);">
+                            <img src="images/post/03.jpg" alt="กล้องวงจรปิดมีกี่ประเภท">
+                            <div class="caption">
+                                <h4>กล้องวงจรปิดมีกี่ประเภท</h4>
+                                <p>กล้องวงจรปิดมีกี่ประเภท อะไรบ้าง? วิธีการเลือกประเภทกล้องให้เหมาะสมกับการใช้งาน...<a href="#"><b> อ่านต่อ</b></a></p>
                             </div>
                         </div>
                     </div>
