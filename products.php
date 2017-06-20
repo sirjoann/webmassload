@@ -1,4 +1,12 @@
+<base href="http://127.0.0.1/webmassload/products">
 <?php include './header.php'; ?>
+<?php
+$model = $_GET['model'];
+$type = $_GET['type'];
+if ($type == "housing") {
+    $typeth = "กล่องหุ้มกล้องวงจรปิด";
+}
+?>
 <body id="page-top">
 
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
@@ -27,7 +35,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe"></i> ภาษาไทย <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#"><img src="images/lang-th.jpg" width="20px"> ภาษาไทย/TH</a></li>
-                            <?php/* echo basename($_SERVER['PHP_SELF']); */?>
+                            <?php /* echo basename($_SERVER['PHP_SELF']); */ ?>
                             <li><a href="#"><img src="images/lang-en.jpg" width="20px"> ENLISH/EN</a></li>
                         </ul>
                     </li>
@@ -38,60 +46,80 @@
 
     <div style="background-color: #2a3c4e; height: 70px;"></div>
 
-    <div class="container-fluid paddingp" style="background-color: #ffffff;">
+    <div class="container paddingp" style="background-color: #ffffff;">
         <div class="rows">
-            <div class="container">
-                <div class="row hpage">products</div>
-                <div style="text-align: center; font-family: 'Mitr',sans-serif;">สินค้าทั้งหมดจากเรา</div>
-                <hr>
-                <div style="padding-top: 50px;"></div>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> <b>หน้าแรก</b></a></li>
+                <li class="breadcrumb-item"><a href="#"><?php echo $typeth; ?></a></li>
+                <li class="breadcrumb-item active"><?php echo $model; ?></li>
+            </ol>
+        </div>
+        <div class="rows">
+            <div class="col-md-5">
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
+                   data-image="images/products/Massload-<?php echo $model; ?>.jpg" data-target="#image-gallery">
+                    <img class="img-responsive" src="images/products/Massload-<?php echo $model; ?>.jpg" alt="<?php echo $model; ?>">
+                </a>
+            </div>
+            <div class="col-md-2">
+                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
+                   data-image="images/products/Massload-<?php echo $model; ?>-dimensions.jpg" data-target="#image-gallery">
+                    <img class="img-responsive" src="images/products/Massload-<?php echo $model; ?>-dimensions.jpg" alt="<?php echo $model; ?>">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3 class="rows hpage" style="text-align: left; margin: 0;">MASSLOAD <?php echo $model; ?></h3>
+                <div style="text-align: left; font-family: 'Mitr',sans-serif;"><?php echo $typeth; ?> รุ่น <?php echo $model; ?></div>
+                <div class="padtop20" style="font-weight: 700; font-size: 20px;">฿00.00</div>
+                <div style="padding: 20px 0px 20px 0px; color: #737373;">
+                    <ul>
+                    <li>Indoor/Outdoor Side Open Type</li>
+                    <li>Material: Die Casting Al-alloy</li>
+                    <li>Housing Dimension: L400 x H127 x W95 mm</li>
+                    <li>Certification: RoHS, CE, IP66</li>
+                    <li>Weight: 2,300g</li>
+                    <li>Heater & Blower are all optional</li>
+                </ul>
+                </div>
+                <div class="btndown">
+                    <a href="images/products/Massload-CI-701.pdf" class="btns"><i class="fa fa-download" style="padding-right: 10px;"></i>brochure</a>
+                </div>
+                <div class="padtop20">
+                    Tag : <span class="badge badge-primary">PoE</span> <span class="badge badge-primary">Heater</span> <span class="badge badge-primary">Blower</span>
+                    <span class="badge badge-primary">IR</span>
+                </div>
             </div>
         </div>
         <div class="rows">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/01.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/01.jpg" alt="MASSLOAD">
-                        </a>
+            <div class="col-md-12">
+                <h2 class="hpage" style="text-align: left; padding-top: 20px; font-size: 30px; padding-bottom: 10px;">Product Detail</h2>
+                <ul class="nav nav-tabs">
+                    <li class="active"><a data-toggle="tab" href="#home">รายละเอียด</a></li>
+                    <li><a data-toggle="tab" href="#menu1">ข้อมูลทางเทคนิค</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div id="home" class="tab-pane fade in active">
+                        <h4 style="padding-top: 15px; padding-bottom: 20px;">กล่องหุ้มกล้องวงจรปิด รุ่น CI-701</h4>
+                        <p>กล่องหุ้มกล้องวงจรปิด รุ่น CI-701 วัสดุ Diecasting Aluminum แข็งแรงคงทน ภายในสามารถติดตั้ง Heater, Blower, PoE และ IR ได้สูงสุดถึง 80 เมตร รองรับการทำงานที่อุณหภูมิ -50°C~ 50°C. Housing กันน้ำและฝุ่นละอองด้วยมาตรฐานการป้องกัน IP66</p>
+                        <div class="padtop20">
+                            <img src="images/icon/die-casting.jpg" width="10%">
+                            <img src="images/icon/Blower.jpg" width="10%">
+                            <img src="images/icon/Heater.jpg" width="10%">
+                            <img src="images/icon/PoE.jpg" width="10%">
+                            <img src="images/icon/IR.jpg" width="10%">
+                            <img src="images/icon/cable.jpg" width="10%">
+                            <img src="images/icon/ip68.jpg" width="10%">
+                        </div>
+                        <p style="padding-top: 20px;">MASSLOAD ผู้นำด้านการผลิตกล่องหุ้มกล้อวงจรปิดจากประเทศไต้หวัน ได้รับคุณภาพและมาตรฐานสากล</p>
                     </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/02.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/02.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/03.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/03.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/04.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/04.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/05.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/05.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/06.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/06.jpg" alt="MASSLOAD">
-                        </a>
+                    <div id="menu1" class="tab-pane fade">
+                        <img src="images/products/Massload-CI-700-tech.jpg" class="img-responsive">
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
 
 
     <!-- Modal Custom -->
