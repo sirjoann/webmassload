@@ -6,7 +6,10 @@
             <name>webmassload</name>
         </data>
         <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>ง</word>
             <word>น</word>
+            <word>มในระบบกล</word>
+            <word>อง</word>
         </spellchecker-wordlist>
     </configuration>
 </project>

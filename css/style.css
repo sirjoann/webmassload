@@ -1,3 +1,11 @@
+.content_ul{
+    padding-top: 10px; 
+    font-family: 'Mitr',sans-serif;
+}
+.blog_content{
+    padding-bottom: 20px;
+}
+
 tr td:first-child{
     font-weight: 700;
     width: 30%;
@@ -197,6 +205,13 @@ figure figcaption p {
     text-align: center; 
     font-size: 40px; 
     font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+}
+
+.hpageth{
+    text-align: center; 
+    font-size: 40px; 
+    font-family: 'Mitr', sans-serif;
     text-transform: uppercase;
 }
 

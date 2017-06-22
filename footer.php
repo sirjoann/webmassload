@@ -13,7 +13,7 @@
             <div class="hfooter">PAGE</div>
             <div><a href="index">หน้าแรก</a></div>
             <div><a href="gallery">รูปภาพ/คลังภาพ</a></div>
-            <div><a href="post">บทความ/คลังความรู้</a></div>
+            <div><a href="blog_post">บทความ/คลังความรู้</a></div>
             <div><a href="contact">ข้อมูลติดต่อ</a></div>
         </div>
         <div class="col-md-3">

@@ -21,7 +21,7 @@
                         </ul>
                     </li>
                     <li><a href="gallery">รูปภาพ</a></li>
-                    <li><a href="post">บทความ</a></li>
+                    <li><a href="blog_post">บทความ</a></li>
                     <li><a href="contact">ติดต่อเรา</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe"></i> ภาษาไทย <span class="caret"></span></a>
@@ -47,7 +47,22 @@
                 <div style="padding-top: 50px;"></div>
             </div>
         </div>
-        
+        <div class="container">
+            <div class="row" style="padding-bottom: 100px;">
+                <div class="col-md-3 col-xs-6">
+                    <figure class="wow fadeInUp animated portfolio-item" data-wow-duration="1s" data-wow-delay="0.1s">
+                        <div class="img-wrapper">
+                            <img src="images/products/Massload-CI-114.jpg" class="img-responsive" alt="CI-114" >
+                            <div class="overlay">
+                                <div class="buttons">
+                                    <a href="products/accessory/CI-114">CI-114</a>
+                                </div>
+                            </div>
+                        </div>
+                    </figure>
+                </div>
+            </div>
+        </div>
     </div>
 
 
