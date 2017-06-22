@@ -55,7 +55,7 @@
                             <img src="images/products/Massload-CI-701.jpg" class="img-responsive" alt="CI-701" >
                             <div class="overlay">
                                 <div class="buttons">
-                                    <a target="_blank" href="products/housing/CI-701">CI-701</a>
+                                    <a href="products/housing/CI-701">CI-701</a>
                                 </div>
                             </div>
                         </div>
@@ -67,7 +67,7 @@
                             <img src="images/products/Massload-CI-700.jpg" class="img-responsive" alt="CI-700" >
                             <div class="overlay">
                                 <div class="buttons">
-                                    <a target="_blank" href="products/housing/CI-700">CI-700</a>
+                                    <a href="products/housing/CI-700">CI-700</a>
                                 </div>
                             </div>
                         </div>
@@ -79,7 +79,7 @@
                             <img src="images/products/Massload-CI-600.jpg" class="img-responsive" alt="CI-600" >
                             <div class="overlay">
                                 <div class="buttons">
-                                    <a target="_blank" href="products/housing/CI-600">CI-600</a>
+                                    <a href="products/housing/CI-600">CI-600</a>
                                 </div>
                             </div>
                         </div>
@@ -91,7 +91,7 @@
                             <img src="images/products/Massload-CI-602.jpg" class="img-responsive" alt="CI-602" >
                             <div class="overlay">
                                 <div class="buttons">
-                                    <a target="_blank" href="products/housing/CI-602">CI-602</a>
+                                    <a href="products/housing/CI-602">CI-602</a>
                                 </div>
                             </div>
                         </div>
@@ -99,54 +99,8 @@
                 </div>
             </div>
         </div>
-        <!--
-        <div class="rows">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/01.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/01.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/02.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/02.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/03.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/03.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/04.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/04.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/05.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/05.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/06.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/06.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
-
-
+        
         <!-- Modal Custom -->
         <div class="row">
             <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">

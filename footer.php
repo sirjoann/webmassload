@@ -3,6 +3,11 @@
         <div class="col-md-3">
             <div class="hfooter">about</div>
             <div>ผู้แทนจำหน่าย และผู้นำเข้าผลิตภัณฑ์ชุดหุ้มกล้องวงจรปิดและอุปกรณ์เสริมสำหรับกล้องวงจรปิดแบรนด์ MASSLOAD</div>
+            <div style="padding-top: 10px; font-size: 30px;">
+                <a href="https://www.facebook.com/Massload/"><i class="fa fa-facebook-square"></i></a>
+                <a href="#"><i class="fa fa-twitter-square"></i></a>
+                <a href="#"><i class="fa fa-google-plus-square"></i></a>
+            </div>
         </div>
         <div class="col-md-3">
             <div class="hfooter">PAGE</div>
@@ -50,6 +55,14 @@ $('.carousel').carousel({
 })
 </script>
 -->
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
 
 <script>
     

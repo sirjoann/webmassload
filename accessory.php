@@ -47,51 +47,7 @@
                 <div style="padding-top: 50px;"></div>
             </div>
         </div>
-        <!--
-        <div class="rows">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/01.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/01.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/02.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/02.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/03.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/03.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/04.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/04.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/05.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/05.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                    <div class="col-md-4 col-xs-2">
-                        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" 
-                           data-image="images/gallery/06.jpg" data-target="#image-gallery">
-                            <img class="img-responsive" src="images/gallery/06.jpg" alt="MASSLOAD">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </div>
 
 
