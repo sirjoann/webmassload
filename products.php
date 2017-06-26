@@ -1,19 +1,20 @@
-<base href="http://127.0.0.1/webmassload/products">
+<!--<base href="<?php $_SERVER['SERVER_NAME'] ?>">-->
+<base href="<?php $_SERVER['SERVER_NAME'] ?>/webmassload/products">
 <?php 
-        $model = $_GET['model']; /* ชื่อรุ่น เช่น CI-701 */
-        $type = $_GET['type']; /* ประเภท เช่น Housing */
+    $model = $_GET['model']; /* ชื่อรุ่น เช่น CI-701 */
+    $type = $_GET['type']; /* ประเภท เช่น Housing */
 
-        include './products/' . $model . '.php';
+    include './products/' . $model . '.php';
 
-        if ($type == "housing") {
-            $typeth = "กล่องหุ้มกล้องวงจรปิด";
-        } elseif ($type == "bracket") {
-            $typeth = "ขายึดกล่องหุ้มกล้องวงจรปิด";
-        }elseif ($type == "accessory") {
-             $typeth = "อุปกรณ์เสริมกล้องวงจรปิด";
-        }
+    if ($type == "housing") {
+        $typeth = "กล่องหุ้มกล้องวงจรปิด";
+    } elseif ($type == "bracket") {
+        $typeth = "ขายึดกล่องหุ้มกล้องวงจรปิด";
+    }elseif ($type == "accessory") {
+         $typeth = "อุปกรณ์เสริมกล้องวงจรปิด";
+    }
     
-        include './header.php';
+    include './header.php';
 ?>
 
     <body>

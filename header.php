@@ -4,15 +4,22 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
+        <meta property="og:title" content="<?php echo $deal['deal_title']; ?>" />
+        <meta property="og:url" content="<?php echo $_SERVER['REQUEST_URI']; ?>" />
+        <meta property="og:image" content="http://domain.com/img/<?php echo $deal['deal_image']; ?>" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta property="og:image:width" content="620" />
+        <meta property="og:image:height" content="541" />
+
         <title>MASSLOAD อันดับ 1 ของผู้ผลิต กล่องหุ้มกล้องวงจรปิด ชุดหุ้มกล้อง และขายึดกล่องหุ้มกล้อง</title>
-        
+
         <!-- SEO description-->
         <meta name="description" content="อุปกรณ์เสริมสำหรับระบบกล้องวงจรปิดที่นิยมใช้กันอย่างแพร่หลาย กล่องหุ้มกล้องวงจรปิด หรือ ชุดหุ้มกล้อง เหมาะสำหรับใช้กับกล้อง cs mount เพื่อการใช้งานภายนอกอาคาร IP66-68">
-        
+
         <!-- SEO keywords -->
         <meta name="keywords" itemprop="" content="กล่องหุ้มกล้องวงจรปิด, ชุดหุ้มกล้อง, ที่ใส่กล้องวงจรปิด, กล้องนอกอาคาร, Outdoor Camera, Housing, CCTV Housing, enclosure">
-        
+
         <!-- Bootstrap -->
         <link href="css/bootstrap.css" rel="stylesheet">
 

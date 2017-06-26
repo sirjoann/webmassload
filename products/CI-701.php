@@ -5,8 +5,9 @@ $highlight = "<ul>
                     <li>Material: Die Casting Al-alloy</li>
                     <li>Housing Dimension: L400 x H127 x W95 mm</li>
                     <li>Certification: RoHS, CE, IP66</li>
-                    <li>Weight: 2,300g</li>
+                    <li>Weight: 2,200g</li>
                     <li>Heater & Blower are all optional</li>
+                    <li>IR LED range:30M, 50M, and 80M</li>
                 </ul>";
 $btndd ='<div class="btndown">
                     <a href="images/products/Massload-CI-701.pdf" download="CI-701" class="btns">

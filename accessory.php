@@ -40,7 +40,7 @@
 
     <div class="container-fluid paddingp" style="background-color: #ffffff;">
         <div class="rows">
-            <div class="container">
+            <div class="container wow fadeInDown">
                 <div class="row hpage">cctv accessory</div>
                 <div style="text-align: center; font-family: 'Mitr',sans-serif;">อุปกรณ์เสริมระบบกล้องวงจรปิด</div>
                 <hr>

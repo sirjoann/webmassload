@@ -22,7 +22,7 @@ $btndd ='<div class="btndown">
 
 $spec = '<img src="images/products/Massload-CI-700-tech.jpg" class="img-responsive">';
 
-$product_detail = 'กล่องหุ้มกล้องวงจรปิด รุ่น CI-701 วัสดุ Diecasting Aluminum แข็งแรงคงทน ภายในสามารถติดตั้ง '
+$product_detail = 'กล่องหุ้มกล้องวงจรปิด รุ่น CI-700 วัสดุ Diecasting Aluminum แข็งแรงคงทน ภายในสามารถติดตั้ง '
         . 'Heater, Blower, PoE และ IR ได้สูงสุดถึง 80 เมตร รองรับการทำงานที่อุณหภูมิ -30°C ~ 50°C. Housing '
         . 'กันน้ำและฝุ่นละอองด้วยมาตรฐานการป้องกัน IP66';
 
