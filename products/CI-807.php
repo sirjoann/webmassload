@@ -16,7 +16,7 @@ $tag = '
 
 $btndd ='';
 
-$product_detail = 'ขายึดกล่องหุ้มกล้องวงจรปิด รุ่น CI-807 วัสดุ Aluminum แข็งแรงคงทน รับน้ำหนักได้สูงสุดถึง 10 กิโลกรัม';
+$product_detail = 'ขายึดกล่องหุ้มกล้องวงจรปิด รุ่น CI-807 วัสดุ Aluminum แข็งแรงคงทน รับน้ำหนักได้สูงสุดถึง 10 กิโลกรัม รุ่นนี้ไม่สามารถเดินสายผ่านตัวขายึดได้';
 
 $imgicon = '<img src="images/icon/aluminum.jpg" width="10%">
             <img src="images/icon/maxload10.jpg" width="10%">';

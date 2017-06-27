@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="th">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,14 +11,19 @@
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="620" />
         <meta property="og:image:height" content="541" />
+        <meta name="google-site-verification" content="HHMNHTi1JNeyxy2TR121IITwLeiVLK334DUXfUY-Sv8" />
+        
+        <link rel="alternate" href="https://www.massload.co.th" hreflang="th" />
 
         <title>MASSLOAD อันดับ 1 ของผู้ผลิต กล่องหุ้มกล้องวงจรปิด ชุดหุ้มกล้อง และขายึดกล่องหุ้มกล้อง</title>
 
+        <link rel="shortcut icon" href="/images/favicon.ico" />
+              
         <!-- SEO description-->
         <meta name="description" content="อุปกรณ์เสริมสำหรับระบบกล้องวงจรปิดที่นิยมใช้กันอย่างแพร่หลาย กล่องหุ้มกล้องวงจรปิด หรือ ชุดหุ้มกล้อง เหมาะสำหรับใช้กับกล้อง cs mount เพื่อการใช้งานภายนอกอาคาร IP66-68">
 
         <!-- SEO keywords -->
-        <meta name="keywords" itemprop="" content="กล่องหุ้มกล้องวงจรปิด, ชุดหุ้มกล้อง, ที่ใส่กล้องวงจรปิด, กล้องนอกอาคาร, Outdoor Camera, Housing, CCTV Housing, enclosure">
+        <meta name="keywords" itemprop="" content="กล่องหุ้มกล้องวงจรปิด, ชุดหุ้มกล้อง, ที่ใส่กล้องวงจรปิด, กล้องนอกอาคาร, Housing, CCTV Housing, enclosure">
 
         <!-- Bootstrap -->
         <link href="css/bootstrap.css" rel="stylesheet">
@@ -39,4 +44,7 @@
         <link  href="css/full-slider.css" rel="stylesheet">
         <link  href="css/new-age.css" rel="stylesheet">
         <link  href="css/style.css" rel="stylesheet">
+        
+        <!-- Popup img -->
+        <link href="css/lightbox.css" rel="stylesheet">
     </head>

@@ -45,6 +45,9 @@
 
 <!-- WOW -->
 <script src="js/wow.min.js"></script>
+
+<script src="js/lightbox-plus-jquery.min.js"></script>
+
 <script>
     new WOW().init();
 </script>
@@ -65,7 +68,6 @@ $('.carousel').carousel({
   }(document, 'script', 'facebook-jssdk'));</script>
 
 <script>
-    
     $(document).ready(function () {
         loadGallery(true, 'a.thumbnail');
 

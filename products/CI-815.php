@@ -21,7 +21,7 @@ $btndd ='<div class="btndown">
                     </a>
                 </div>';
 
-$product_detail = 'ขายึดกล่องหุ้มกล้องวงจรปิด รุ่น CI-815 วัสดุ Aluminum แข็งแรงคงทน รับน้ำหนักได้สูงสุดถึง 30 กิโลกรัม';
+$product_detail = 'ขายึดกล่องหุ้มกล้องวงจรปิด รุ่น CI-815 วัสดุ Aluminum แข็งแรงคงทน รับน้ำหนักได้สูงสุดถึง 30 กิโลกรัม รุ่นนี้ใช้ในการยึดกับเสาที่มีเส้นผ่าศูนย์กลางขนาด 70-120, 120-230 มิลลิเมตร';
 
 $imgicon = '<img src="images/icon/die-casting.jpg" width="10%">
             <img src="images/icon/maxload30.jpg" width="10%">';

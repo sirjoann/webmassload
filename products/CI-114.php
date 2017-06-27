@@ -21,7 +21,7 @@ $btndd ='<div class="btndown">
                     </a>
                 </div>';
 
-$product_detail = 'Junction Box รุ่น CI-815 วัสดุ Die Cast Aluminum แข็งแรงคงทน รับน้ำหนักได้สูงสุดถึง 10 กิโลกรัม';
+$product_detail = 'Junction Box รุ่น CI-815 วัสดุ Die Cast Aluminum แข็งแรงคงทน นวัตกรรมใหม่ของกล่องพักสายไฟ สำหรับกล้องประเภท Bullet ติดตั้งง่าย รับน้ำหนักได้สูงสุดถึง 10 กิโลกรัม';
 
 $imgicon = '<img src="images/icon/die-casting.jpg" width="10%">
             <img src="images/icon/maxload10.jpg" width="10%">';

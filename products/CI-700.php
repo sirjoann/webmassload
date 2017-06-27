@@ -4,7 +4,7 @@ $highlight = "<ul>
                     <li>Indoor/Outdoor Side Open Type</li>
                     <li>Material: Die Casting Al-alloy</li>
                     <li>Housing Dimension: L400 x H127 x W95 mm</li>
-                    <li>Certification: RoHS, CE, IP66</li>
+                    <li>Certification: RoHS, CE, IP66, IK10</li>
                     <li>Weight: 2,300g</li>
                     <li>Heater & Blower are all optional</li>
                 </ul>";
@@ -77,7 +77,7 @@ $technical = '
     </tr>
     <tr>
         <td>Operating Temperature </td>
-        <td>-50°C~ 50°C</td>
+        <td>-30°C~ 50°C</td>
     </tr>
     <tr>
         <td>External Dimensions </td>

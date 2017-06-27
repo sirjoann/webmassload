@@ -28,11 +28,11 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #fdcc52;
+  color: #fdb400;
 }
 a:hover,
 a:focus {
-  color: #fcbd20;
+  color: #fdb400;
 }
 hr {
   max-width: 100px;
@@ -72,10 +72,9 @@ p {
   padding: 10px 0px 10px 0px;
 }
 .navbar-default .navbar-header .navbar-brand {
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
-  font-weight: 200;
-  letter-spacing: 1px;
-  color: #fdcc52;
+  background-image: url("../images/massload-logo2.png");
+    background-size: 150px 50px;
+    background-repeat: no-repeat;
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {

@@ -4,7 +4,7 @@ $highlight = "<ul>
                     <li>Indoor/Outdoor Side Open Type</li>
                     <li>Material: Die Casting Al-alloy</li>
                     <li>Housing Dimension: L400 x H127 x W95 mm</li>
-                    <li>Certification: RoHS, CE, IP66</li>
+                    <li>Certification: RoHS, CE, IP66,IK10</li>
                     <li>Weight: 2,200g</li>
                     <li>Heater & Blower are all optional</li>
                     <li>IR LED range:30M, 50M, and 80M</li>
@@ -23,7 +23,7 @@ $tag = '<span class="badge badge-primary">Housing</span>
 $spec = '<img src="images/products/Massload-CI-700-tech.jpg" class="img-responsive">';
 
 $product_detail = 'กล่องหุ้มกล้องวงจรปิด รุ่น CI-701 วัสดุ Diecasting Aluminum แข็งแรงคงทน ภายในสามารถติดตั้ง '
-        . 'Heater, Blower, PoE และ IR ได้สูงสุดถึง 80 เมตร รองรับการทำงานที่อุณหภูมิ -30°C ~ 50°C Housing '
+        . 'Heater, Blower, PoE และ IR ได้สูงสุดถึง 80 เมตร รองรับการทำงานที่อุณหภูมิ -50°C ~ 50°C Housing '
         . 'กันน้ำและฝุ่นละอองด้วยมาตรฐานการป้องกัน IP66';
 
 $imgicon = '<img src="images/icon/die-casting.jpg" width="10%">

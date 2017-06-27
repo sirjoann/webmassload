@@ -4,7 +4,7 @@
 $highlight = "<ul>
                     <li>Material: Aluminum</li>
                     <li>Dimension: L160 x φ110 mm</li>
-                    <li>Color : Beige</li>
+                    <li>Color : Silver</li>
                     <li>Certification: RoHS</li>
                     <li>Weight: 276g</li>
                     <li>Max. Load: 3kg</li>
@@ -16,7 +16,7 @@ $tag = '
 
 $btndd ='';
 
-$product_detail = 'ขายึดกล่องหุ้มกล้องวงจรปิด รุ่น CI-802A วัสดุ Aluminum แข็งแรงคงทน รับน้ำหนักได้สูงสุดถึง 20 กิโลกรัม';
+$product_detail = 'ขายึดกล่องหุ้มกล้องวงจรปิด รุ่น CI-802A วัสดุ Aluminum แข็งแรงคงทน รับน้ำหนักได้สูงสุดถึง 20 กิโลกรัม ใช้สำหรับยึดติดเพดาน ผนังกำแพง หรือติดตั้งเป็น web cam ก็สามารถทำได้';
 
 $imgicon = '<img src="images/icon/aluminum.jpg" width="10%">
             <img src="images/icon/maxload3.jpg" width="10%">';
@@ -32,7 +32,7 @@ $technical = '
     </tr>
     <tr>
         <td>Color</td>
-        <td>Beige</td>
+        <td>Silver</td>
     </tr>
     <tr>
         <td>Certification</td>
