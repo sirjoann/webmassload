@@ -12,7 +12,7 @@
                 <div class="carousel-caption">
                     <div class="row">
                         <div class="col-md-4">
-                            <h1 class="cover-text-lead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">No.1 CCTV Housing</h1>
+                            <div class="cover-text-lead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp; font-size: 30px;">No.1 CCTV Housing</div>
                             <h2 class="cover-text-sublead wow fadeInUp" style="padding: 20px 0px; visibility: visible; animation-duration: 1s; animation-delay: 0.8s; animation-name: fadeInUp;" data-wow-duration="1s" data-wow-delay=".8s">MASSLOAD No.1 Factory of Die-Cast aluminum CCTV housing and bracket</h2>
                             <a href="#about" class="btn btn-primary btn-outline animated fadeInLeft">LEARN MORE</a>
                         </div>
@@ -24,7 +24,7 @@
                 <div class="carousel-caption">
                     <div class="row">
                         <div class="col-md-4">
-                            <h1 class="cover-text-lead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">No.1 CCTV Housing</h1>
+                            <div class="cover-text-lead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp; font-size: 30px;">No.1 CCTV Housing</div>
                             <h2 class="cover-text-sublead wow fadeInUp" style="padding: 20px 0px; visibility: visible; animation-duration: 1s; animation-delay: 0.8s; animation-name: fadeInUp;" data-wow-duration="1s" data-wow-delay=".8s">MASSLOAD No.1 Factory of Die-Cast aluminum CCTV housing and bracket</h2>
                             <a href="#about" class="btn btn-primary btn-outline animated fadeInLeft">LEARN MORE</a>
                         </div>
@@ -58,7 +58,7 @@
                             <b>กล่องหุ้มกล้องวงจรปิด</b> ใช้สำหรับกล้อง CS Mount หรือ กล้อง Box สำหรับการติดตั้งภายนอกอาคาร เพื่อป้องกันตัวกล้องได้ดี ป้องกันฝุ่นละออง น้ำ แรงระเบิด สะเก็ดไฟ เพื่อให้กล้องยังคงทำงานได้ดีในทุกสภาวะ
                         </div>
                         
-                        <img src="images/ce-rohs.jpg">
+                        <img src="images/ce-rohs.jpg" alt="rohs">
                     </div>
                 </div>
             </div>

@@ -60,9 +60,9 @@ if($base == 'housing' or $base == 'bracket' or $base == 'accessory'){
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe"></i> ภาษาไทย <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#"><img src="images/lang-th.jpg" width="20px"> ภาษาไทย/TH</a></li>
+                            <li><a href="#"><img src="images/lang-th.jpg" width="20px" alt="th-lang"> ภาษาไทย/TH</a></li>
                             <?php/* echo basename($_SERVER['PHP_SELF']); */?>
-                            <li><a href="#"><img src="images/lang-en.jpg" width="20px"> ENLISH/EN</a></li>
+                            <li><a href="#"><img src="images/lang-en.jpg" width="20px" alt="en-lang"> ENLISH/EN</a></li>
                         </ul>
                     </li>
                 </ul>

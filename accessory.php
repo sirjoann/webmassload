@@ -42,7 +42,7 @@
                         <h4 class="modal-title" id="image-gallery-title"></h4>
                     </div>
                     <div class="modal-body">
-                        <img id="image-gallery-image" class="img-responsive" src="">
+                        <img id="image-gallery-image" class="img-responsive" src="" alt="massload">
                     </div>
                 </div>
             </div>

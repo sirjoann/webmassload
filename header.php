@@ -15,12 +15,12 @@
         
         <link rel="alternate" href="https://www.massload.co.th" hreflang="th" />
 
-        <title>MASSLOAD อันดับ 1 ของผู้ผลิต กล่องหุ้มกล้องวงจรปิด ชุดหุ้มกล้อง และขายึดกล่องหุ้มกล้อง</title>
+        <title>MASSLOAD อันดับ 1 ของผู้ผลิต กล่องหุ้มกล้องวงจรปิด ชุดหุ้มกล้อง</title>
 
         <link rel="shortcut icon" href="/images/favicon.ico" />
               
         <!-- SEO description-->
-        <meta name="description" content="อุปกรณ์เสริมสำหรับระบบกล้องวงจรปิดที่นิยมใช้กันอย่างแพร่หลาย กล่องหุ้มกล้องวงจรปิด หรือ ชุดหุ้มกล้อง เหมาะสำหรับใช้กับกล้อง cs mount เพื่อการใช้งานภายนอกอาคาร IP66-68">
+        <meta name="description" content="อุปกรณ์เสริมสำหรับระบบกล้องวงจรปิด กล่องหุ้มกล้องวงจรปิด หรือ ชุดหุ้มกล้อง เหมาะสำหรับใช้กับกล้อง cs mount เพื่อการใช้งานภายนอกอาคาร IP66-68">
 
         <!-- SEO keywords -->
         <meta name="keywords" itemprop="" content="กล่องหุ้มกล้องวงจรปิด, ชุดหุ้มกล้อง, ที่ใส่กล้องวงจรปิด, กล้องนอกอาคาร, Housing, CCTV Housing, enclosure">

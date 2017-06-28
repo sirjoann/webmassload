@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+RewriteRule ^products/([0-9a-zA-Z]+)/([0-9a-zA-Z_-]+) products.php?type=$1&model=$2 [NC,L]
+RewriteRule ^article/([0-9a-zA-Z]+) post.php?title=$1 [NC,L]
+
+ErrorDocument 400 /404.php
+ErrorDocument 401 /404.php
+ErrorDocument 403 /404.php
+ErrorDocument 404 /404.php
+ErrorDocument 500 /404.php
+
+
+DirectoryIndex index.php
